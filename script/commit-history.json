@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "be76f9c83f728d20d9aa434bec187c3317220e80",
     "author": "Celeste Limeira",
     "commit": {
       "date": "2026-08-27T14:24:00.000Z",
       "message": "feat(fizzbizz): implementar logica de FizzBuzz y hacer pasar suite de pruebas",
-      "url": "https://github.com/CeleLimeira123/TDDLabBaseProjectSoftware/commit/HEAD"
+      "url": "https://github.com/CeleLimeira123/TDDLabBaseProjectSoftware/commit/be76f9c83f728d20d9aa434bec187c3317220e80"
     },
     "stats": {
       "total": 11,
       "additions": 11,
       "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Celeste Limeira",
+    "commit": {
+      "date": "2026-08-27T14:40:56.000Z",
+      "message": "feat(ui): actualizar index.html con el formulario de FizzBuzz",
+      "url": "https://github.com/CeleLimeira123/TDDLabBaseProjectSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 12,
+      "deletions": 10,
       "date": "2026-08-27"
     },
     "coverage": 100,

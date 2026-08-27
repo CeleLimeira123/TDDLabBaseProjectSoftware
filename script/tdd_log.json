@@ -100,9 +100,15 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "be76f9c83f728d20d9aa434bec187c3317220e80",
     "commitName": "feat(fizzbizz): implementar logica de FizzBuzz y hacer pasar suite de pruebas",
     "commitTimestamp": 1787840643327,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat(ui): actualizar index.html con el formulario de FizzBuzz",
+    "commitTimestamp": 1787841660007,
+    "testId": 3
   }
 ]
