@@ -70,9 +70,39 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a50708c1c42f4a575006097ef6813dd75d4b0d76",
     "commitName": "refactor(presenter): actualizar vista para enviar entradas a la funcion fizzbizz",
     "commitTimestamp": 1787840274381,
     "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1787840360225,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1787840494747,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1787840569258,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat(fizzbizz): implementar logica de FizzBuzz y hacer pasar suite de pruebas",
+    "commitTimestamp": 1787840643327,
+    "testId": 2
   }
 ]

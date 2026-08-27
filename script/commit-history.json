@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a50708c1c42f4a575006097ef6813dd75d4b0d76",
     "author": "Celeste Limeira",
     "commit": {
       "date": "2026-08-27T14:17:50.000Z",
       "message": "refactor(presenter): actualizar vista para enviar entradas a la funcion fizzbizz",
-      "url": "https://github.com/CeleLimeira123/TDDLabBaseProjectSoftware/commit/HEAD"
+      "url": "https://github.com/CeleLimeira123/TDDLabBaseProjectSoftware/commit/a50708c1c42f4a575006097ef6813dd75d4b0d76"
     },
     "stats": {
       "total": 15,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Celeste Limeira",
+    "commit": {
+      "date": "2026-08-27T14:24:00.000Z",
+      "message": "feat(fizzbizz): implementar logica de FizzBuzz y hacer pasar suite de pruebas",
+      "url": "https://github.com/CeleLimeira123/TDDLabBaseProjectSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
